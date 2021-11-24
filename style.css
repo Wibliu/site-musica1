@@ -1,0 +1,42 @@
+
+body {
+    background: #001A4D;
+}
+
+img {
+    width: 250px;
+    height: 270px;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-top: 8px;
+
+    
+}
+
+.centro  {
+    -webkit-box-shadow: 8px 5px 10px 6px #000000; 
+    box-shadow: 8px 5px 10px 6px #000000;
+    border-radius: 10px;
+    width: 280px;
+    height: 14cm;
+    }
+
+    .gambiarra {
+        padding-left: 9cm;
+        padding-top: 1cm;
+    }
+
+    .texto{
+        text-align: center;
+    }
+
+    .avatar {
+        width: 1cm;
+        height: 1cm;
+        float: left;
+    }
+
+    .escrita {
+        padding-left: 2cm;
+        padding-top: 20px;
+    }
